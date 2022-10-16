@@ -29,7 +29,7 @@ This is very good for RP and people who stream to show that you have a body came
             amount = 1,
             info = {},
             type = "item",
-            slot = 16,
+            slot = 18,
             authorizedJobGrades = {0, 1, 2, 3, 4}
         }
 ```
