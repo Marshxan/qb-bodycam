@@ -16,8 +16,8 @@ AddEventHandler("bodycam:time", function (h,m,s)
     })
 end)
 
-RegisterNetEvent("dog-bodycam:openBoy")
-AddEventHandler("dog-bodycam:openBoy", function (item, h,m,s)
+RegisterNetEvent("marsh-bodycam:openBoy")
+AddEventHandler("marsh-bodycam:openBoy", function (item, h,m,s)
     local Player = QBCore.Functions.GetPlayerData()
     if Player.job.name == "police" then
         if Player.charinfo.gender == "0" then
