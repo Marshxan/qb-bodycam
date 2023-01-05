@@ -48,5 +48,3 @@ This is very good for RP and people who stream to show that you have a body came
 
 
 
-
-This script is a edit of [Dog-Bodycam](https://github.com/BobyTheDev/dog-bodycam)
